@@ -5,6 +5,12 @@ module.exports = {
     author: `cogear`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-1082898034501084`
+      },
+    },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {

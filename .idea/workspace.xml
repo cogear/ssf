@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ad1b11e-304a-46b0-bdcb-1ae3bd3e634a" name="Default Changelist" comment="" />
+    <list default="true" id="3ad1b11e-304a-46b0-bdcb-1ae3bd3e634a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-ssr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623862305321</updated>
       <workItem from="1623862307363" duration="3120000" />
-      <workItem from="1623865604297" duration="4018000" />
+      <workItem from="1623865604297" duration="5113000" />
     </task>
     <task id="LOCAL-00001" summary="Header Title change">
       <created>1623940502554</created>
@@ -64,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623942976228</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added adsense code">
+      <created>1623946372863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623946372863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,18 +87,21 @@
     <MESSAGE value="Header Title change" />
     <MESSAGE value="New Main Paragraph" />
     <MESSAGE value="New Footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Footer" />
+    <MESSAGE value="Added adsense code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added adsense code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3036" y="86" key="CommitChangelistDialog2" timestamp="1623942976111">
+    <state x="3036" y="86" key="CommitChangelistDialog2" timestamp="1623946372750">
       <screen x="1680" y="-354" width="3440" height="1440" />
     </state>
     <state x="3036" y="86" key="CommitChangelistDialog2/1680.-354.3440.1440/0.0.1680.1050@1680.-354.3440.1440" timestamp="1623942976111" />
+    <state x="3036" y="86" key="CommitChangelistDialog2/1680.-354.3440.1440/0.25.1680.1025@1680.-354.3440.1440" timestamp="1623946372750" />
     <state x="3194" y="-237" key="CommitChangelistDialog2/1680.-897.3840.2160/0.0.1680.1050@1680.-897.3840.2160" timestamp="1623866801901" />
-    <state x="3000" y="103" key="Vcs.Push.Dialog.v2" timestamp="1623942988540">
+    <state x="3000" y="103" key="Vcs.Push.Dialog.v2" timestamp="1623946384965">
       <screen x="1680" y="-354" width="3440" height="1440" />
     </state>
     <state x="3000" y="103" key="Vcs.Push.Dialog.v2/1680.-354.3440.1440/0.0.1680.1050@1680.-354.3440.1440" timestamp="1623942988540" />
+    <state x="3000" y="103" key="Vcs.Push.Dialog.v2/1680.-354.3440.1440/0.25.1680.1025@1680.-354.3440.1440" timestamp="1623946384965" />
     <state x="3396" y="101" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623866952522">
       <screen x="1680" y="-897" width="3840" height="2160" />
     </state>

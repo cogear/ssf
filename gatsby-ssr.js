@@ -5,12 +5,3 @@
  */
 
 // You can delete this file if you're not using it
-const React = require('react')
-
-const HeadComponents = [
-  <script data-ad-client="ca-pub-1082898034501084" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>,
-]
-
-exports.onRenderBody = ({ setHeadComponents }, pluginOptions) => {
-  setHeadComponents(HeadComponents)
-}
